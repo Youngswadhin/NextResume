@@ -6,9 +6,9 @@
 <h3 align="center">ATS-Friendly Resume Builder for Young Professionals</h3>
 
 <p align="center">
- <a href="https://resumave.vercel.app/">View Demo</a>
+ <a href="https://nextresumes.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/devXprite/resumave/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
+    <a href="https://github.com/Youngswadhin/nextresume/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
 </p>
 <br/>
 
@@ -43,7 +43,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 
 ## Usage
-To use Resumave, simply visit [resumave.vercel.app](https://resumave.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
+To use Resumave, simply visit [nextresumes.vercel.app](https://nextresumes.vercel.app/) and start filling out your details. Once complete, you can export your resume in PDF format.
 
 ## License
 This project is licensed under the MIT License. see the LICENSE file for details.
